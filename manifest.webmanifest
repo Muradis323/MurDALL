@@ -1,1 +1,1 @@
-{"name":"MURDAL","short_name":"MURDAL","start_url":"./","display":"standalone","background_color":"#060806","theme_color":"#080b08","lang":"ru","description":"Трекер привычек MURDAL"}
+{"name":"MURDAL","short_name":"MURDAL","start_url":"./","scope":"./","display":"standalone","background_color":"#050705","theme_color":"#060806","lang":"ru","description":"Трекер бессрочных привычек MURDAL","icons":[{"src":"apple-touch-icon.png?v=7","sizes":"180x180","type":"image/png","purpose":"any maskable"}]}
